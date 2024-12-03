@@ -56,26 +56,25 @@ The system employs a sophisticated algorithm for dynamic UPS unit activation:
 - **Project Lead**: Nabil Salhi
 - **Team Size**: 4 members
 
+## Performance Metrics and UPS Status (from Screenshot)
+
+### Instantaneous Data
+- **Current**: 40.8 Amperes
+- **Voltage**: 151 Volts
+- **Power Consumption**: 6.15 kW
+
+### UPS Unit Status
+- **Onduleur1 (UPS #1)**: On
+- **Onduleur2 (UPS #2)**: On
+- **Onduleur3 (UPS #3)**: On
+- **Onduleur4 (UPS #4)**: Off (Load demand < 7.85 kW)
+
 ## Project Highlights
 
 - **Energy Efficiency**: Adaptive power management
 - **Scalability**: Easily expandable to additional UPS units
 - **User Accessibility**: Intuitive web interface
 - **Robust Design**: Seamless hardware-software integration
-
-## Performance Metrics
-
-- **Current**: 40.8 Amperes
-- **Voltage**: 151 Volts
-- **Power Consumption**: 6.15 kW
-- **Active UPS Units**: 3/4
-
-## Future Potential
-
-- Advanced power quality metrics
-- Predictive maintenance algorithms
-- IoT and cloud connectivity integration
-- Granular load forecasting
 
 ## Connect
 
